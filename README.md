@@ -1,2 +1,3 @@
 # Hello-world
-Sample Repository
+Sample Repository  
+Example purpose
